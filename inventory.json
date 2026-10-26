@@ -1,6 +1,6 @@
 {
   "dealership": "Mclaren Vancouver",
-  "generated_at": "2026-10-25T20:00:20",
+  "generated_at": "2026-10-26T05:01:09",
   "vehicle_count": 56,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -272,9 +272,7 @@
       "year": 2020,
       "make": "McLaren",
       "model": "600LT",
-      "condition": "used",
-      "price": 308888.0,
-      "price_currency": "CAD"
+      "condition": "used"
     },
     {
       "name": "2020 McLaren 600LT ",
@@ -347,9 +345,7 @@
       "year": 2023,
       "make": "Lamborghini",
       "model": "Urus Performante",
-      "condition": "used",
-      "price": 369888.0,
-      "price_currency": "CAD"
+      "condition": "used"
     },
     {
       "name": "2023 Lamborghini Urus ",
@@ -358,9 +354,7 @@
       "year": 2023,
       "make": "Lamborghini",
       "model": "Urus",
-      "condition": "used",
-      "price": 369888.0,
-      "price_currency": "CAD"
+      "condition": "used"
     },
     {
       "name": "2023 Mercedes-Benz GLS-Class Maybach GLS 600in Vancouver",
