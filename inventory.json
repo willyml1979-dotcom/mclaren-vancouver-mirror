@@ -1,7 +1,7 @@
 {
   "dealership": "Mclaren Vancouver",
-  "generated_at": "2026-11-17T00:28:13",
-  "vehicle_count": 58,
+  "generated_at": "2026-11-17T00:36:12",
+  "vehicle_count": 56,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -80,6 +80,52 @@
       "vin": "WU1ARBF11TD019033",
       "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/b8de11945df5.html",
       "condition": "used",
+      "price": 169888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Porsche Cayenne 2010 for salein Vancouver",
+      "vin": "WP1AC2AP2ALA80273",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/new/a2af8df2fba9.html",
+      "condition": "new",
+      "price": 49888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "McLaren 600LT 2019 for salein Vancouver",
+      "vin": "SBM13RAA1KW006727",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/new/d3dc02c52144.html",
+      "condition": "new",
+      "price": 318888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Porsche 911 2023 for salein Vancouver",
+      "vin": "WP0AD2A94PS257680",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/new/b29cbd73f332.html",
+      "condition": "new",
+      "price": 328888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Bentley Continental 2024 for salein Vancouver",
+      "vin": "SCBCG2ZG7RC012598",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/new/02f86e620e2a.html",
+      "condition": "new",
+      "price": 298888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "McLaren 750S 2024 for salein Vancouver",
+      "vin": "SBM14BCA9RW008317",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/new/41913fddada3.html",
+      "condition": "new"
+    },
+    {
+      "name": "Audi RS Q8 2026 for salein Vancouver",
+      "vin": "WU1ARBF11TD019033",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/new/b8de11945df5.html",
+      "condition": "new",
       "price": 169888.0,
       "price_currency": "CAD"
     },
@@ -214,17 +260,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2010 Porsche Cayenne ",
-      "vin": "WP1AC2AP2ALA80273",
-      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/new/a2af8df2fba9.html",
-      "year": 2010,
-      "make": "Porsche",
-      "model": "Cayenne",
-      "condition": "new",
-      "price": 49888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2012 Lamborghini Gallardo LP 550-2in Vancouver",
       "vin": "ZHWGE52Z7CLA11292",
       "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/eaf7deba7d74.html",
@@ -335,37 +370,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 McLaren 600LT ",
-      "vin": "SBM13RAA3KW007474",
-      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/new/d3dc02c52144.html",
-      "year": 2019,
-      "make": "McLaren",
-      "model": "600LT",
-      "condition": "new",
-      "price": 308888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 McLaren 600LT ",
-      "vin": "SBM13SAA2LW008446",
-      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/new/c8c401bc4553.html",
-      "year": 2020,
-      "make": "McLaren",
-      "model": "600LT",
-      "condition": "new"
-    },
-    {
-      "name": "2021 Bentley Bentayga ",
-      "vin": "SJAAR2ZV3MC037148",
-      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/new/2b1c05513cda.html",
-      "year": 2021,
-      "make": "Bentley",
-      "model": "Bentayga",
-      "condition": "new",
-      "price": 213888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Porsche 911 Targa 4 GTSin Vancouver",
       "vin": "WP0BB2A91NS231903",
       "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/bfd009aff6ad.html",
@@ -452,17 +456,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Porsche 911 ",
-      "vin": "WP0AD2A94PS257680",
-      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/new/b29cbd73f332.html",
-      "year": 2023,
-      "make": "Porsche",
-      "model": "911",
-      "condition": "new",
-      "price": 328888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Bentley Continental GT Azure | Stunning Specificationin Vancouver",
       "vin": "SCBCG2ZG7RC012598",
       "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/5df5fbea4cb1.html",
@@ -474,17 +467,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Bentley Continental ",
-      "vin": "SCBCG2ZG7RC012598",
-      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/new/02f86e620e2a.html",
-      "year": 2024,
-      "make": "Bentley",
-      "model": "Continental",
-      "condition": "new",
-      "price": 298888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 McLaren 750S Spider | 1-Year McLaren Qualified CPO Warrantyin Vancouver",
       "vin": "SBM14BCA9RW008317",
       "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/3c7cc9a4ad39.html",
@@ -492,17 +474,6 @@
       "make": "McLaren",
       "model": "750S Spider",
       "condition": "used"
-    },
-    {
-      "name": "2024 McLaren 750S ",
-      "vin": "SBM14BCA9RW008317",
-      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/new/41913fddada3.html",
-      "year": 2024,
-      "make": "McLaren",
-      "model": "750S",
-      "condition": "new",
-      "price": 429888.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2024 Porsche 718 Cayman GT4 RS | Weissach | Lift | PCCBin Vancouver",
@@ -589,17 +560,6 @@
       "make": "Audi",
       "model": "RS Q8 Performance",
       "condition": "used",
-      "price": 169888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Audi RS Q8 ",
-      "vin": "WU1ARBF11TD019033",
-      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/new/b8de11945df5.html",
-      "year": 2026,
-      "make": "Audi",
-      "model": "RS Q8",
-      "condition": "new",
       "price": 169888.0,
       "price_currency": "CAD"
     }
