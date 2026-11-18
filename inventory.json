@@ -1,7 +1,7 @@
 {
   "dealership": "Mclaren Vancouver",
-  "generated_at": "2026-11-17T00:36:12",
-  "vehicle_count": 56,
+  "generated_at": "2026-11-17T21:08:18",
+  "vehicle_count": 60,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -22,6 +22,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ferrari F430 2005 for salein Vancouver",
+      "vin": "ZFFEW59A350142252",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/5da6a7ee9fdd.html",
+      "condition": "used",
+      "price": 269888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Porsche 911 2008 for salein Vancouver",
       "vin": "WP0ZZZ99Z8S781820",
       "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/ab5d14e1c66a.html",
@@ -30,11 +38,43 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ferrari F430 2009 for salein Vancouver",
+      "vin": "ZFFKW64A290165561",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/fd86da937ade.html",
+      "condition": "used",
+      "price": 598000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Porsche 911 2009 for salein Vancouver",
+      "vin": "WP0CD29929S773455",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/69a38b465141.html",
+      "condition": "used",
+      "price": 141888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Porsche Cayenne 2010 for salein Vancouver",
       "vin": "WP1AC2AP2ALA80273",
       "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/a2af8df2fba9.html",
       "condition": "used",
       "price": 49888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "McLaren 600LT 2019 for salein Vancouver",
+      "vin": "SBM13RAA1KW006727",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/68580264846a.html",
+      "condition": "used",
+      "price": 318888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Porsche 911 2022 for salein Vancouver",
+      "vin": "WP0BB2A91NS231903",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/eaeb7a9f8292.html",
+      "condition": "used",
+      "price": 219888.0,
       "price_currency": "CAD"
     },
     {
@@ -54,12 +94,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "McLaren 750S 2024 for salein Vancouver",
-      "vin": "SBM14BCA9RW008317",
-      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/d507d12bdf6f.html",
-      "condition": "used"
-    },
-    {
       "name": "Porsche 718 Cayman 2024 for salein Vancouver",
       "vin": "WP0AE2A81RK275058",
       "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/4762e4a3448d.html",
@@ -76,12 +110,50 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Porsche Cayenne 2025 for salein Vancouver",
+      "vin": "WP1BK2AYXSDA49218",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/ef2c74e1b234.html",
+      "condition": "used",
+      "price": 239888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Porsche Panamera 2025 for salein Vancouver",
+      "vin": "WP0AG2YA9SL070543",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/ea275bf5072c.html",
+      "condition": "used",
+      "price": 189888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Audi RS Q8 2026 for salein Vancouver",
       "vin": "WU1ARBF11TD019033",
       "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/b8de11945df5.html",
       "condition": "used",
       "price": 169888.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "Porsche 911 2026 for salein Vancouver",
+      "vin": "WP0AC2A95TS287008",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/2f828773795e.html",
+      "condition": "used",
+      "price": 364888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used Ferrari California T for salein Vancouver",
+      "vin": "ZFF77XJA7H0227614",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/da6da73b4706.html",
+      "condition": "used",
+      "price": 178888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used McLaren 750S for salein Vancouver",
+      "vin": "SBM14BCA9RW008317",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/3041790ee943.html",
+      "condition": "used"
     },
     {
       "name": "Porsche Cayenne 2010 for salein Vancouver",
@@ -163,17 +235,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2005 Ferrari F430 ",
-      "vin": "ZFFEW59A350142252",
-      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/5da6a7ee9fdd.html",
-      "year": 2005,
-      "make": "Ferrari",
-      "model": "F430",
-      "condition": "used",
-      "price": 269888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2007 Mercedes-Benz SLR Mclarenin Vancouver",
       "vin": "WDDAJ76F87M001220",
       "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/c56b9971d7ca.html",
@@ -216,31 +277,9 @@
       "condition": "used"
     },
     {
-      "name": "2009 Ferrari F430 ",
-      "vin": "ZFFKW64A290165561",
-      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/fd86da937ade.html",
-      "year": 2009,
-      "make": "Ferrari",
-      "model": "F430",
-      "condition": "used",
-      "price": 598000.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2009 Porsche 911 Turbo | Manualin Vancouver",
       "vin": "WP0CD29929S773455",
       "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/b400dc757489.html",
-      "year": 2009,
-      "make": "Porsche",
-      "model": "911",
-      "condition": "used",
-      "price": 141888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2009 Porsche 911 ",
-      "vin": "WP0CD29929S773455",
-      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/69a38b465141.html",
       "year": 2009,
       "make": "Porsche",
       "model": "911",
@@ -260,23 +299,23 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2012 Lamborghini Gallardo LP 550-2in Vancouver",
+      "name": "2012 Lamborghini Gallardo LP 550-2 Coupein Vancouver",
       "vin": "ZHWGE52Z7CLA11292",
       "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/eaf7deba7d74.html",
       "year": 2012,
       "make": "Lamborghini",
-      "model": "Gallardo LP 550-2in Vancouver",
+      "model": "Gallardo LP 550-2 Coupein Vancouver",
       "condition": "used",
       "price": 215888.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2012 Lamborghini Gallardo 1/250 Bicolore Editionin Vancouver",
+      "name": "2012 Lamborghini Gallardo LP 560-4 Bicolore | 1/250 Bicolore Editionin Vancouver",
       "vin": "ZHWGE51U9CLA11476",
       "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/347d6500c6d5.html",
       "year": 2012,
       "make": "Lamborghini",
-      "model": "Gallardo 1/250 Bicolore Editionin Vancouver",
+      "model": "Gallardo LP 560-4 Bicolore",
       "condition": "used",
       "price": 208888.0,
       "price_currency": "CAD"
@@ -326,17 +365,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Ferrari California T ",
-      "vin": "ZFF77XJA7H0227614",
-      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/695a8b4a7f77.html",
-      "year": 2017,
-      "make": "Ferrari",
-      "model": "California T",
-      "condition": "used",
-      "price": 178888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 McLaren 600LT 1-Year McLaren Qualified CPO Warrantyin Vancouver",
       "vin": "SBM13RAA3KW007474",
       "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/63c6b6ccc381.html",
@@ -359,31 +387,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 McLaren 600LT ",
-      "vin": "SBM13RAA3KW007474",
-      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/68580264846a.html",
-      "year": 2019,
-      "make": "McLaren",
-      "model": "600LT",
-      "condition": "used",
-      "price": 308888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Porsche 911 Targa 4 GTSin Vancouver",
       "vin": "WP0BB2A91NS231903",
       "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/bfd009aff6ad.html",
-      "year": 2022,
-      "make": "Porsche",
-      "model": "911",
-      "condition": "used",
-      "price": 219888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Porsche 911 ",
-      "vin": "WP0BB2A91NS231903",
-      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/eaeb7a9f8292.html",
       "year": 2022,
       "make": "Porsche",
       "model": "911",
@@ -531,20 +537,20 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Porsche Panamera GTS | Balance of CPO until 5/29/31 | Timeless Specificationin Vancouver",
-      "vin": "WP0AG2YA9SL070543",
-      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/2c2f8819ef57.html",
+      "name": "2025 Porsche Cayenne Turbo GTin Vancouver",
+      "vin": "WP1BK2AYXSDA49218",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/666d690a296e.html",
       "year": 2025,
       "make": "Porsche",
-      "model": "Panamera",
+      "model": "Cayenne",
       "condition": "used",
-      "price": 189888.0,
+      "price": 239888.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Porsche Panamera ",
+      "name": "2025 Porsche Panamera GTS | Balance of CPO until 5/29/31 | Timeless Specificationin Vancouver",
       "vin": "WP0AG2YA9SL070543",
-      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/ea275bf5072c.html",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/2c2f8819ef57.html",
       "year": 2025,
       "make": "Porsche",
       "model": "Panamera",
@@ -561,6 +567,17 @@
       "model": "RS Q8 Performance",
       "condition": "used",
       "price": 169888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Porsche 911 GT3in Vancouver",
+      "vin": "WP0AC2A95TS287008",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/38e82be5a628.html",
+      "year": 2026,
+      "make": "Porsche",
+      "model": "911",
+      "condition": "used",
+      "price": 364888.0,
       "price_currency": "CAD"
     }
   ]

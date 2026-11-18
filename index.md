@@ -1,6 +1,6 @@
 # McLaren Vancouver
 
- dealership in Vancouver. AI-readable inventory mirror, about 56 vehicles.
+ dealership in Vancouver. AI-readable inventory mirror, about 60 vehicles.
 
 - Official website: https://www.mclarenvancouver.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/
