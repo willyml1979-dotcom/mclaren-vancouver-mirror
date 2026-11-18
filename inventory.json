@@ -1,6 +1,6 @@
 {
   "dealership": "Mclaren Vancouver",
-  "generated_at": "2026-11-17T21:12:02",
+  "generated_at": "2026-11-18T06:43:34",
   "vehicle_count": 60,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -62,6 +62,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Lamborghini Gallardo 2012 for salein Vancouver",
+      "vin": "ZHWGE52Z7CLA11292",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/70833367314a.html",
+      "condition": "used",
+      "price": 215888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "McLaren 600LT 2019 for salein Vancouver",
       "vin": "SBM13RAA1KW006727",
       "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/68580264846a.html",
@@ -75,6 +83,22 @@
       "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/eaeb7a9f8292.html",
       "condition": "used",
       "price": 219888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lamborghini Urus 2023 for salein Vancouver",
+      "vin": "ZPBCC3ZL2PLA26118",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/43c4f4bc4572.html",
+      "condition": "used",
+      "price": 374888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Porsche 718 Cayman 2023 for salein Vancouver",
+      "vin": "WP0AE2A80PS280944",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/fb2f6ecd1f8c.html",
+      "condition": "used",
+      "price": 238888.0,
       "price_currency": "CAD"
     },
     {
@@ -99,6 +123,14 @@
       "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/4762e4a3448d.html",
       "condition": "used",
       "price": 255888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Porsche 911 2024 for salein Vancouver",
+      "vin": "WP0CD2A91RS257129",
+      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/d2f1be497226.html",
+      "condition": "used",
+      "price": 358888.0,
       "price_currency": "CAD"
     },
     {
@@ -321,17 +353,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2012 Lamborghini Gallardo ",
-      "vin": "ZHWGE52Z7CLA11292",
-      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/70833367314a.html",
-      "year": 2012,
-      "make": "Lamborghini",
-      "model": "Gallardo",
-      "condition": "used",
-      "price": 215888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2013 Mercedes-Benz C-Class Black Series | Limited productionin Vancouver",
       "vin": "WDDGJ7HB7DG009002",
       "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/92231fa99f8c.html",
@@ -409,15 +430,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Lamborghini Urus ",
-      "vin": "ZPBCC3ZLXPLA26805",
-      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/43c4f4bc4572.html",
-      "year": 2023,
-      "make": "Lamborghini",
-      "model": "Urus",
-      "condition": "used"
-    },
-    {
       "name": "2023 Mercedes-Benz GLS-Class Maybach GLS 600in Vancouver",
       "vin": "4JGFF8HB1PA916263",
       "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/4064d09bdf3b.html",
@@ -432,17 +444,6 @@
       "name": "2023 Porsche 718 Cayman GT4 RS | Weissach Packin Vancouver",
       "vin": "WP0AE2A80PS280944",
       "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/f427b94a4b89.html",
-      "year": 2023,
-      "make": "Porsche",
-      "model": "718",
-      "condition": "used",
-      "price": 238888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Porsche 718 Cayman ",
-      "vin": "WP0AE2A80PS280944",
-      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/fb2f6ecd1f8c.html",
       "year": 2023,
       "make": "Porsche",
       "model": "718",
@@ -507,17 +508,6 @@
       "name": "2024 Porsche 911 Turbo S | Heritage Designin Vancouver",
       "vin": "WP0CD2A91RS257129",
       "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/0d356ad2bcc8.html",
-      "year": 2024,
-      "make": "Porsche",
-      "model": "911",
-      "condition": "used",
-      "price": 358888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Porsche 911 ",
-      "vin": "WP0CD2A91RS257129",
-      "url": "https://willyml1979-dotcom.github.io/mclaren-vancouver-mirror/used/d2f1be497226.html",
       "year": 2024,
       "make": "Porsche",
       "model": "911",
